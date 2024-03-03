@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 - 🔭 I’m currently working on [Custom Map Creator](https://github.com/MarcinKvzniar/CustomMapCreator)
 
-- 🌱 I’m currently learning **Tensorflow, Spring, JavaScript/TypeScript**
+- 🌱 I’m currently learning **Tensorflow, Spring, JavaScript, TypeScript**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
