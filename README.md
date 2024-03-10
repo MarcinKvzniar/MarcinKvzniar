@@ -2,7 +2,7 @@
 
 - 🏫 I'm Studying Medical Informatics at Wroclaw University Of Science And Technology
 
-- 🔭 I’m currently working on [Custom Map Creator](https://github.com/MarcinKvzniar/CustomMapCreator), [Vaccination Management](https://github.com/MarcinKvzniar/VaccinationManagement)
+- 🔭 I’m currently working on [Custom Map Creator](https://github.com/MarcinKvzniar/CustomMapCreator), [Vaccination Management](https://github.com/MarcinKvzniar/VaccinationManagement), [Java Spring Library Management System](https://github.com/MarcinKvzniar/NetworkTechnologies-Project)
 
 - 🌱 I’m currently learning **Tensorflow, Spring, JavaScript, TypeScript**
 
