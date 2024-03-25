@@ -2,9 +2,9 @@
 
 - 🏫 I'm Studying Medical Informatics at Wroclaw University Of Science And Technology
 
-- 🔭 I’m currently working on [Python Google API Custom Map Creator](https://github.com/MarcinKvzniar/CustomMapCreator), [Android Kotlin Vaccination Management](https://github.com/MarcinKvzniar/VaccinationManagement), [Java Spring Library Management System](https://github.com/MarcinKvzniar/NetworkTechnologies-Project)
+- 🔭 I’m currently working on [Android Kotlin Vaccination Management with MySQL Database](https://github.com/MarcinKvzniar/VaccinationManagement), [Java Spring Library Management System](https://github.com/MarcinKvzniar/NetworkTechnologies-Project)
 
-- 🌱 I’m currently learning **Tensorflow, Spring, JavaScript, TypeScript**
+- 🌱 I’m currently learning **Tensorflow, Spring**
 
 - 🤝 My projects or projects that I've participated in [Medical CT Classifier](https://github.com/LethalDriver/Medical_CT_Classifier), [Vaccine Manager](https://github.com/MarcinKvzniar/VaccineManager-Android)
   
