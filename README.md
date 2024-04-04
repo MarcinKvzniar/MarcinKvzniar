@@ -2,7 +2,7 @@
 
 - 🏫 I'm Studying Medical Informatics at Wroclaw University Of Science And Technology
 
-- 🔭 I’m currently working on [Android Kotlin Vaccination Management with MySQL Database](https://github.com/MarcinKvzniar/VaccinationManagement), [Java Spring Library Management System](https://github.com/MarcinKvzniar/NetworkTechnologies-Project)
+- 🔭 I’m currently working on [Android Kotlin Vaccination Management with MySQL Database](https://github.com/MarcinKvzniar/VaccinationManagement), [Java Spring Library Management System](https://github.com/MarcinKvzniar/NetworkTechnologies-Project), [Mars Lander Game](https://github.com/JacekPodanowski/Landing)
 
 - 🌱 I’m currently learning **Tensorflow, Spring**
 
